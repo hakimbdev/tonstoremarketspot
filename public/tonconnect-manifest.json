@@ -1,7 +1,7 @@
 {
-  "url": "https://ton-store.app",
-  "name": "Ton Store",
-  "iconUrl": "https://ton-store.app/icon.png",
-  "termsOfUseUrl": "https://ton-store.app/terms",
-  "privacyPolicyUrl": "https://ton-store.app/privacy"
-} 
+  "name": "TON Marketplace",
+  "url": "https://tonstoremarketspot.vercel.app",
+  "iconUrl": "https://tonstoremarketspot.vercel.app/favicon.png",
+  "termsOfUseUrl": "https://tonstoremarketspot.vercel.app/terms",
+  "privacyPolicyUrl": "https://tonstoremarketspot.vercel.app/privacy"
+}
